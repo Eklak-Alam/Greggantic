@@ -16,20 +16,4 @@
 <img src="https://img.shields.io/badge/UI%2FUX-God_Tier-00ff00?style=for-the-badge&logo=codesandbox&logoColor=black" width="200" height="28" alt="God Tier" />
 <img src="https://img.shields.io/badge/Routine-Eat_%7C_Sleep-0055ff?style=for-the-badge&logo=coffeescript&logoColor=white" width="210" height="28" alt="Routine" />
 
-<br><br>
-
-</div>
-
-## 📂 The Locker Contents
-
-*You really think I'm going to leave the good stuff out in the open?*
-
-*   **Login Pages** — Locked.
-*   **Organization Workspaces** — Restricted.
-*   **The Main Dashboard** — You can't find it.
-
----
-
-<div align="center">
-  <h2>EAT. SLEEP. MAN. OKAY.</h2>
 </div>
