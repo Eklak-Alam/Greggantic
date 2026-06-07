@@ -12,8 +12,4 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Access-Restricted-ff0000?style=for-the-badge&logo=gnupg&logoColor=white" width="220" height="28" alt="Restricted" />
-<img src="https://img.shields.io/badge/UI%2FUX-God_Tier-00ff00?style=for-the-badge&logo=codesandbox&logoColor=black" width="200" height="28" alt="God Tier" />
-<img src="https://img.shields.io/badge/Routine-Eat_%7C_Sleep-0055ff?style=for-the-badge&logo=coffeescript&logoColor=white" width="210" height="28" alt="Routine" />
-
 </div>
